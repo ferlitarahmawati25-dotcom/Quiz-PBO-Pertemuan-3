@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "products": [
+        {"item_code": "PRD-001", "name": "Mechanical Keyboard", "price": 850000.0, "is_available": true, "stock": 15},
+        {"item_code": "PRD-002", "name": "Gaming Mouse", "price": 350000.0, "is_available": false, "stock": 0},
+        {"item_code": "PRD-003", "name": "UltraWide Monitor", "price": 4500000.0, "is_available": true, "stock": 5},
+        {"item_code": "PRD-004", "name": "USB Hub Type-C", "price": 150000.0, "is_available": true, "stock": 45},
+        {"item_code": "PRD-005", "name": "Desk Mat XL", "price": 95000.0, "is_available": false, "stock": 0}
+    ]
+}
